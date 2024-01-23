@@ -37,6 +37,10 @@ Rode as Migrations
 adonis migration:run
 ```
 
+Observações:
+- Link para Swagger da aplicação: http://127.0.0.1:3333/docs/
+- Collections do Postman está na raiz do projeto (API Adenojs.postman_collection.json)
+
 ### ⚙️ Pré-Requisitos
 
 - Nodejs
@@ -48,6 +52,7 @@ adonis migration:run
 * [Node](https://www.npmjs.com/package/node)
 * [Adonis](https://adonisjs.com/)
 * [PostgreSQL](https://www.postgresql.org/)
+* [Swagger] 
 
 
 ## Autor
